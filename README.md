@@ -5,3 +5,5 @@
 ♠ [lesson-03](https://github.com/RomanTaras/MySQL/tree/lesson3)  (SQL: Написання запитів ч.2)
 
 ♠ [lesson-04](https://github.com/RomanTaras/MySQL/tree/lesson4)  (SQL: Таблиці та зв`язки між ними)
+
+♠[lesson-05](https://github.com/RomanTaras/MySQL/tree/lesson5)  (SQL: Таблиці та зв`язки між ними ч.2 JOIN)
